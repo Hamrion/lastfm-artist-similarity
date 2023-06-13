@@ -31,7 +31,7 @@
 
 # Screenshot
 
-![Screenshot](https://github.com/Hamrion/lastfm-artist-similarity/blob/[branch]/screenshot.png?raw=true)
+![Screenshot](https://github.com/Hamrion/lastfm-artist-similarity/blob/main/screenshot.png?raw=true)
 
 ## License
 
