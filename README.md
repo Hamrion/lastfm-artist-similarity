@@ -1,7 +1,7 @@
 # lastfm-artist-similarity
 
 
-**"lastfm-artist-similarity"** code is a Python code that uses the **Last.fm API** to find similar artists based on a given artist name. The script authenticates with the Last.fm APIs using your API credential, takes the artist name you provide, and suggests 10 similar artists. The script also prints the names, similarity rates and genre of the 10 artists provided for your reference to the console. With this script, you can get 10 different artist suggestions similar to your favourite artist and expand your artist archive.
+**"lastfm-artist-similarity"** code is a Python script that uses the **Last.fm API** to find similar artists based on a given artist name. The script authenticates with the Last.fm APIs using your API credential, takes the artist name you provide, and suggests 10 similar artists. The script also prints the names, similarity rates and genre of the 10 artists provided for your reference to the console. With this script, you can get 10 different artist suggestions similar to your favourite artist and expand your artist archive.
 
 
 
