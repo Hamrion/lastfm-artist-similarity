@@ -29,7 +29,7 @@
 
 
 
-# Screenshot
+## Screenshot
 
 ![Screenshot](https://github.com/Hamrion/lastfm-artist-similarity/blob/main/screenshot.png?raw=true)
 
